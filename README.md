@@ -7,7 +7,7 @@ Una vez clickemos, saldrá un cuadro de diálogo que rellenaremos a nuestro gust
 Para nuestro primer proyecto, crearemos un repositorio con el mismo nombre que nuestra cuenta.
 Tiene que ser ***PÚBLICO*** e incluir un *README.md*.
 
-Una vez creado, editamos el archivo *README.md*. Para ello, clickamos en el nombre del archivo y nos abrirá un editor de texto web que soporta el formato [MARKDOWN](https://www.markdownguide.org/) y escribiremos nuesto nombre.
+Una vez creado, editamos el archivo *README.md*. Para ello, clickamos en el nombre del archivo y nos abrirá un editor de texto web que soporta el formato [MARKDOWN](https://www.markdownguide.org/) y escribiremos nuesto nombre. Github hace uso de una versión extendida de MD, aqui tienes una hoja de referencia rápida : https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf.
 
 Al final de la página podremos poner un título al cambio que hemos hecho, este título ha de ser lo más descriptivo posible.  Algunos ejemplos pueden ser:  
 + Crea README que contiene información de nuestro perfil.  
